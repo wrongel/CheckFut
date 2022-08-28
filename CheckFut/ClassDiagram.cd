@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_000e_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainSheet.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainSheet.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CItemData" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAAAAEAQAAAAAEAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>ReportCtrl.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CalendarDlg" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAEAAAAAABAAAAAAAAAAAAAAAAAEIAAAgAA=</HashCode>
+      <FileName>CalendarDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCheckFutApp">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIBAAEOEAAgQEACAQBggDEAAAlARAMAAAAAgUgBo=</HashCode>
+      <FileName>CheckFut.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Config">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAgAAAAAAAAAAgAAAAAAAQAAAQAAQAAAAAAA=</HashCode>
+      <FileName>Config.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreateReport" Collapsed="true">
+    <Position X="14" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAQBIAEQAAAAAAQAAAAAAAAQAAEAAAAwAABAAQ=</HashCode>
+      <FileName>CreateReport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HaruClass">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>GKEGAQATSKYMBADBJkAJAIlIECCAgARjiCBTsIEBAQs=</HashCode>
+      <FileName>HaruClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainSheet">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABEAAEAIBAAAAAAAAWERAAAAAEAABAABBAgQAkA=</HashCode>
+      <FileName>MainSheet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MesTemplate" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="MesTemplate::__unnamed_enum_0011_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MesTemplate.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAQAAEAABAAAACAABAAAAABAAAQAAAAAAAAACAAgAA=</HashCode>
+      <FileName>MesTemplate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Page_Archive" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>g2AAQCEAAFCARCAAEBKAkAAAMEAAAAAAEAAAACqIAAA=</HashCode>
+      <FileName>Page_Archive.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Page_GenInfo" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IUAAAIEAIAQIAAAIAFAAABAIAQUAAAAAQABCAAAAAAA=</HashCode>
+      <FileName>Page_GenInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Page_List" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACECAMQAQAQAABAAEAQAABAABACEYAQAAUIAAAA=</HashCode>
+      <FileName>Page_List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Page_ProdInfo" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Page_ProdInfo::__unnamed_enum_0019_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Page_ProdInfo.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IUAAQEEAACAIAAAIAFCAAAAMAQAAAAAAQEACQAAAAEA=</HashCode>
+      <FileName>Page_ProdInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Page_Type" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Page_Type::__unnamed_enum_001b_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Page_Type.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAQAAAgAAABAAAAAIAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Page_Type.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerDlg" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PowerDlg::__unnamed_enum_001d_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PowerDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgCAAAECAAAAAAAICBCAAAAAAAAAAAAAQgAGICAQAAA=</HashCode>
+      <FileName>PowerDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CReportCtrl" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SgEjGHTGDAkQJUo2Qw1AMCe2laoYIW6C6gLUARAYJxo=</HashCode>
+      <FileName>ReportCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CResultDlg" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAEAECACAAAAEAIJAABCABAAQAAAAAkAACAMAAAAA=</HashCode>
+      <FileName>ResDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingsDlg" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SettingsDlg::__unnamed_enum_0024_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SettingsDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAJBAEAAAAAAAAAAFAAEAAAAABIAAAAAAQEAAIAAAA=</HashCode>
+      <FileName>SettingsDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharedBuffer">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAAAgBAQAAAgAgAAIAgASAQABAgQAGAAYCAAoAAAI=</HashCode>
+      <FileName>SharedBuffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSBManagerMaster" Collapsed="true">
+    <Position X="19.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACCgAAAIAAAAACgAAEAAAAICAQIAAACIAAAAAIA=</HashCode>
+      <FileName>SharedBuffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSBManagerSlave" Collapsed="true">
+    <Position X="17.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACCAIAoIAAAAAAgAAAAAAAIAAQJAAACAAAAAAAE=</HashCode>
+      <FileName>SharedBuffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
